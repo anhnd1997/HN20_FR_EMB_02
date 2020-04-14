@@ -13,5 +13,6 @@ int tang(int a[],int n)
                 a[j] = tg;
             }
         }
+    printf("%d",a[i]);
     }
 }
